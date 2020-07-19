@@ -4,7 +4,7 @@ Visualisations with Tableau of Citi Bike NYC trips in the first half of 2020
 
 https://public.tableau.com/profile/omotoyosi.odele#!/vizhome/citibikes/Citibike_Story?publish=yes
 
-# Citi Bike Analysis Project New York
+# Citi Bike Analysis
 
 Citi Bike trip data from January to June 2020 was analysed to discover the impact of COVID 19 on the bike sharing service. 
 
