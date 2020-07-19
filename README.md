@@ -18,7 +18,7 @@ Based on the total trip duration, Bike 42197 would most likely be needing repair
 
 # Overview of Stations
 
-The most popular stations for starting a trip serve as the same for ending. That may be attritubuted to proximity to the city centre as they are all closely located. Still, the full distribution of end stations have some outliers far away from the concentration of most other stations and they are primarily one-off trips.
+The most popular stations for starting a trip serve as the same for ending one. That may be attritubuted to proximity to the city centre as they are all closely located. Still, the full distribution of end stations have some outliers far away from the concentration of most other stations and they are primarily one-off trips.
 
 # Overview of Users
 
