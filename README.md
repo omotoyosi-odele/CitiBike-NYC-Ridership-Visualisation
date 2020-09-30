@@ -15,7 +15,8 @@ The total number of trips dipped consistently for the first four months of the y
 Also, the average trip time is highest among females, however, that may be skewed as a large number of riders have not signified their gender.
 
 Based on the total trip duration, Bike 42197 would most likely be needing repairs soon, as it has the highest count for the period - over 868 hours (3.125 million seconds).
-![Trips](Citi Bike Story.png)
+
+![Trips](Citi%20Bike%20Story.png)
 
 # Overview of Stations
 
