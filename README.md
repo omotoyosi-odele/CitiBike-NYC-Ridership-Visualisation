@@ -22,6 +22,8 @@ Based on the total trip duration, Bike 42197 would most likely be needing repair
 
 The most popular stations for starting a trip serve as the same for ending one. That may be attritubuted to proximity to the city centre as they are all closely located. Still, the full distribution of end stations have some outliers far away from the concentration of most other stations and they are primarily one-off trips.
 
+![Trips](Citi%20Bike%20Story%202.png)
+
 # Overview of Users
 
 There are more male than female riders, across both customer and subscriber rider types, although the number of female riders are steadily increasing. Customer riders increased considerably over the period, while subscriber riders decreased. This may be attributed to the uncertainty of riders on their ability to use their annual subscription due to the pandemic and the lockdown. Still, June has seen a slight increase in the number of subscriber rides and a slight decrease in that of customer rides as things slowly return to normal. Riders born in 1986 have the highest number of trips and most of the users' birth years are largely between 1977 and 1994, pegging most users as being in their twenties to fourties. Worthy of note, is that there is an abnormally high number of users born in 1986 with unkown gender. It looks like a glitch or the default age that people generally pick when they do not want to reveal their personal details. Regardless, this shows that Citi Bike has better data on its subscriber riders than customer riders.
