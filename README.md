@@ -1,4 +1,4 @@
-# Tableau Challenge
+# CitiBike NYC Ridership Data Visualisation with Tableau
 
 Visualisations with Tableau of Citi Bike trips in New York City for the first half of 2020 
 
